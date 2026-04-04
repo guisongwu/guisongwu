@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I'm Guisong Wu, reading PhD in **numerical mathematics** at AMSS, CAS.
+I'm Guisong Wu, a PhD student in **numerical mathematics** at the Academy of Mathematics and Systems Science (AMSS), Chinese Academy of Sciences (CAS).
 
-- 🔭 I'm currently working on finite element method and computational fluid dynamics
-- 🌱 I'm currently learning fem
-- 👯 I'm looking to collaborate on numerical methods for fluid dynamics
-- 📫 How to reach me: wuguisong36@gmail.com
+- 🔭 My research focuses on finite element methods and computational fluid dynamics
+- 🌱 I'm currently exploring mixed finite element methods and parallel computing
+- 👯 I'm open to collaborations on numerical methods for fluid dynamics
+- 📫 Feel free to reach me at: wuguisong36@gmail.com
 
 
 [![GuisongWu's GitHub stats](https://github-readme-stats-amber-eta.vercel.app/api?username=guisongwu&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
