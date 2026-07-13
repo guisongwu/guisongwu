@@ -6,7 +6,7 @@ I'm Guisong Wu, a PhD student in **numerical mathematics** at the Academy of Mat
 - 🌱 I'm currently exploring mixed finite element methods and parallel computing
 - 👯 I'm open to collaborations on numerical methods for fluid dynamics
 - 📫 Feel free to reach me at: wuguisong36@gmail.com
-<!-- - 📝 Check out my blog for thoughts on math, computing, and research: [guisongwu.com](https://guisongwu.com/) -->
+- 📝 Check out my blog for thoughts on math, computing, and research: [guisongwu.com](https://guisongwu.com/)
 
 
 [![GuisongWu's GitHub stats](https://github-readme-stats-amber-eta.vercel.app/api?username=guisongwu&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
